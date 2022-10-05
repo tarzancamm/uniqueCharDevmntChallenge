@@ -13,3 +13,5 @@ let uniqueChar = (word) => {
 
 let randomWord = 'monday'
 console.log(uniqueChar(randomWord))
+
+// Checks the first index of a character and if that index is NOT EQUAL to the index of the last occurance of that character it returns false. If it IS EQUAL it returns true.
