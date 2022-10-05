@@ -32,7 +32,7 @@ let chkRepeat = (word) => {
     }
 }
 
-let newRandomWord = 'hello'
+let newRandomWord = 'moonday'
 console.log(chkRepeat(newRandomWord))
 
 // Solved with Set built-in object. 
